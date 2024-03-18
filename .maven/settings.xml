@@ -8,8 +8,23 @@
   <servers>
     <server>
       <id>MuleRepository</id>
-      <username>${nexus_username}</username>
-      <password>${nexus_password}</password>
+      <username>mule.client</username>
+      <password>Mule1Heart</password>
+    </server>
+    <server>
+      <username>alphakoua03</username>
+      <password>qWenoYLiFtgG45</password>
+      <id>exchange-server</id>
+    </server>
+    <server>
+      <username>~~~Client~~~</username>
+      <password>1271197799a443d0b51ef1197c90cdc1~?~1e06e050fa1647499CDB72D54ca565a1</password>
+      <id>anypoint-exchange-v3</id>
+    </server>
+    <server>
+      <username>~~~Token~~~</username>
+      <password>030b9f42-1bb0-4ecf-9ce1-48f163a0b945</password>
+      <id>anypoint-exchange-v2</id>
     </server>
   </servers>
 
